@@ -1,0 +1,21 @@
+#animation1{
+    width: 300px;
+
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-name: anime1;
+}
+
+@keyframes anime1 {
+    0%{
+        filter: blur(5px);
+        transform: rotate(-60deg);
+    }
+    80%{
+        transform: rotate(0deg);
+    }
+    100%{
+        filter: blur(0px);
+        transform: rotate(60deg);
+    }
+}

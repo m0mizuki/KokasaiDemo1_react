@@ -1,0 +1,22 @@
+export const Pages={
+    home:{
+        displayName:"ホーム",
+        path:"/",
+        icon:"./img/homeIcon.png",
+    },
+    map:{
+        displayName:"マップ",
+        path:"/map",
+        icon:"./img/mapIcon.png",
+    },
+    kikaku:{
+        displayName:"企画",
+        path:"/kikaku",
+        icon:"./img/kikakuIcon.png",
+    },
+    access:{
+        displayName:"アクセス",
+        path:"/access",
+        icon:"./img/accessIcon.png",
+    },
+};
