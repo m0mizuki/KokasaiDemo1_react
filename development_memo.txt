@@ -11,6 +11,9 @@ https://qiita.com/EisKern/items/15dcf7864fa49df8f247#project-pages%E3%81%A7%E5%8
 ↑アンインストールした
 ↑再度インストールした
 
+真っ白な時の対処法
+https://maaengineerhouse.com/archives/1822#
+
 jsx内にcssを書ける？ライブラリ
 npm install styled-jsx
 ↑多分アンストしてる
