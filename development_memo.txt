@@ -8,6 +8,12 @@ gh-pagesをインストールした
 npm install gh-pages --save-dev
 https://qiita.com/EisKern/items/15dcf7864fa49df8f247#project-pages%E3%81%A7%E5%85%AC%E9%96%8B
 ↑これ参考にした
+↑アンインストールした
+↑再度インストールした
+
+jsx内にcssを書ける？ライブラリ
+npm install styled-jsx
+↑多分アンストしてる
 
 起動
 コマンドプロンプトで

@@ -1,17 +1,12 @@
 import { Pages } from '../Pages';
 import Static from '../../static/json/testText.json';
+import './commonStyle.css'
 
 function Footer({ children }) {
 
-    const footer = {
-        background: "skyblue",
-        height: "20rem",
-        width: "100%"
-    };
-
     return (
         <>
-            <p style={footer}>
+            <p className='footer'>
                 {children}
                 <p><a href={Pages.home.path}>{Pages.home.displayName}</a></p>
                 <p><a href={Pages.map.path}>{Pages.map.displayName}</a></p>
